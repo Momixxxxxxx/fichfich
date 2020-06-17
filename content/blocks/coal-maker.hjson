@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Coal Maker
+description: Combines Fich and water to make coal.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: true
+craftTime: 40
+updateEffect: smeltsmoke
+consumes: {
+  power: 1.5
+  items: {
+    items: [
+      fich/2
+    ]
+  }
+  liquid: {
+    liquid: water
+    amount: 1.5
+  }
+}
+requirements: [
+  copper/70
+  lead/50
+  silicon/60
+  metaglass/25
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coal/1
