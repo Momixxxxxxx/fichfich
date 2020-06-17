@@ -1,6 +1,6 @@
 name: "FichFich"
 displayName: "[gold]FichFich" //what displays in the mod selection menu
 author: "Momixx"
-description: "I don't know what it does..."
-version: "0.1.0"
+description: "A mod that adds a new Ore: Fich Ore"
+version: "0.1.1"
 minGameVersion: "103"
