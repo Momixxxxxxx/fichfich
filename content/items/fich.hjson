@@ -1,0 +1,6 @@
+type: material
+name: Fich
+description: An ancient resource only found in the deepest frogs.
+hardness: 1
+cost: 2
+color: ffffff
