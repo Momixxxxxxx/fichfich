@@ -1,0 +1,26 @@
+type: LiquidTurret
+name: Colafresser
+description: Dies ist ein Colafresser. Er frisst Cola.
+health: 2000
+size: 3
+reload: 0
+range: 256
+ammoUseEffect: lancerLaserShoot
+inaccuracy: 0
+rotatespeed: 10
+shootEffect: shootLiquid
+shootSound: beam
+recoil: 3
+shootShake: 0.5
+ammo: {
+  cola: {
+    type: meltdownLaser
+  }
+}
+requirements: [
+  fich/200
+  thorium/125
+  plastanium/150
+  surge-alloy/100
+]
+category: turret
