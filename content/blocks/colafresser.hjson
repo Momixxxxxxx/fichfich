@@ -13,7 +13,7 @@ shootSound: beam
 recoil: 3
 shootShake: 0.5
 hasLiquids
-liquidCapacity: 200
+liquidCapacity: 200.0
 ammo: {
   cola: {
     type: MassDriverBolt
