@@ -10,4 +10,12 @@ A mod for Mindustry that adds the Fich Ore
 
 ## New contents
 - Fich Ore
+- Sugar Ore
+
+- Cola
+
 - Fich Generator
+- Coal Maker
+- Cola Factory
+
+- Colafresser

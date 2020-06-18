@@ -1,0 +1,26 @@
+type: GenericCrafter
+name: Cola Factory
+description: Combines Fich and Sugar into Cola.
+liquidCapacity: 50
+itemCapacity: 60
+outputLiquid: {
+  liquid: cola
+  amount: 5
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.6
+  items: { items: [ "fich/5" "sugar/10"] }
+}
+requirements: [
+  copper/50
+  lead/50
+  titanium/25
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
