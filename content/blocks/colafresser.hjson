@@ -14,7 +14,7 @@ recoil: 3
 shootShake: 0.5
 ammo: {
   cola: {
-    type: meltdownLaser
+    type: MassDriverBolt
   }
 }
 requirements: [
