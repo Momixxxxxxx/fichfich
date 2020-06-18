@@ -12,7 +12,7 @@ shootEffect: shootLiquid
 shootSound: beam
 recoil: 3
 shootShake: 0.5
-hasLiquids
+hasLiquids: true
 liquidCapacity: 200.0
 ammo: {
   cola: {
