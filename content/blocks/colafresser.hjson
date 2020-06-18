@@ -1,6 +1,6 @@
 type: LiquidTurret
 name: Colafresser
-description: Dies ist ein Colafresser. Er frisst Cola.
+description: "Dies ist ein Colafresser. Er frisst Cola."
 health: 2000
 size: 3
 reload: 0
@@ -13,7 +13,7 @@ shootSound: beam
 recoil: 3
 shootShake: 0.5
 hasLiquids: true
-liquidCapacity: 200.0
+liquidCapacity: 200
 ammo: {
   cola: {
     type: MassDriverBolt
