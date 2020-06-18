@@ -3,7 +3,6 @@ name: Colafresser
 description: "Dies ist ein Colafresser. Er frisst Cola."
 health: 2000
 size: 3
-reload: 0
 range: 256
 ammoUseEffect: lancerLaserShoot
 inaccuracy: 0
