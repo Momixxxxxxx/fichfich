@@ -1,0 +1,9 @@
+name: Cola
+description: A sticky situation, used for feeding the Colafresser. IT'S FLAMMABLE AND VERY EXPLOSIVE!
+temperature: 0.2
+flammability: 0.35
+heatCapacity: 0.95
+viscosity: 0.5
+explosiveness: 1
+effect: boss
+color: 1a0c05
