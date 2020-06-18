@@ -1,0 +1,6 @@
+type: resource
+name: Fich
+description: It's sweet. And very tasty.
+hardness: 1
+cost: 1
+color: ffffff
