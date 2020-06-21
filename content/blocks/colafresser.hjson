@@ -1,28 +1,12 @@
 type: LiquidTurret
-name: Colafresser
-description: "Dies ist ein Colafresser. Er frisst Cola."
-health: 2000
-size: 3
-range: 256
-ammoUseEffect: lancerLaserShoot
-inaccuracy: 0
-rotatespeed: 10
-shootEffect: shootLiquid
-shootSound: beam
-recoil: 3
-shootShake: 0.5
-hasLiquids: true
-liquidCapacity: 200
 ammo: {
   cola: {
-    type: MissileBulletType
-    damage: 9000
+    type: LiquidBulletType
+    damage: 1000
   }
 }
-requirements: [
-  fich/200
-  thorium/125
-  plastanium/150
-  surge-alloy/100
-]
-category: turret
+hasLiquids: true
+liquidCapacity: 200
+range: 256
+inaccuracy: 0
+recoil: 2
