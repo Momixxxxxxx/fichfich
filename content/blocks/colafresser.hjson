@@ -3,6 +3,7 @@ ammo: {
   cola: {
     type: LiquidBulletType
     damage: 1000
+    liquid: cola
   }
 }
 hasLiquids: true
