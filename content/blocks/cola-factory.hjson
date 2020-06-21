@@ -15,6 +15,10 @@ updateEffect: smeltsmoke
 consumes: {
   power: 0.6
   items: { items: [ "fich/5" "sugar/10"] }
+  liquid: {
+    liquid: water
+    amount: 2
+  }
 }
 requirements: [
   copper/50

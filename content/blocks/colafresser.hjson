@@ -15,7 +15,8 @@ hasLiquids: true
 liquidCapacity: 200
 ammo: {
   cola: {
-    type: MassDriverBolt
+    type: MissileBulletType
+    damage: 9000
   }
 }
 requirements: [
