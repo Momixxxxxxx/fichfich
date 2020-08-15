@@ -11,4 +11,4 @@ liquidCapacity: 200
 range: 256
 inaccuracy: 0
 recoil: 2
-category: turrets
+category: turret
