@@ -1,14 +1,6 @@
-type: LiquidTurret
+type: ItemTurret
 ammo: {
-  cola: {
-    type: LiquidBulletType
-    damage: 1000
-    liquid: cola
-  }
+  colaBottles: oilShot
 }
-hasLiquids: true
-liquidCapacity: 200
-range: 256
-inaccuracy: 0
-recoil: 2
-category: turret
+range: 80
+reload: 5
