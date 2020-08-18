@@ -1,0 +1,6 @@
+type: resource
+name: Cola Bottle
+description: It's sweet. And very tasty. And liquid.
+hardness: 1
+cost: 1
+color: ffffff

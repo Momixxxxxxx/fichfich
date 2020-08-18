@@ -1,0 +1,28 @@
+type: GenericCrafter
+name: Bottler
+description: Fills Cola into bottles.
+liquidCapacity: 50
+itemCapacity: 60
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 1
+updateEffect: formsmoke
+outputItem: colaBottle/1
+consumes: {
+  power: 0.6
+  items: { items: [ "metaglass/3"] }
+  liquid: {
+    liquid: cola
+    amount: 1
+  }
+}
+requirements: [
+  copper/100
+  lead/50
+  titanium/25
+  thorium/50
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5

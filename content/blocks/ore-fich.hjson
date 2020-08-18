@@ -2,3 +2,4 @@ type: OreBlock
 itemDrop: fich
 oreDefault: true
 playerUnmineable: false
+oreScale: 25.38
