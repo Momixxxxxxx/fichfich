@@ -1,6 +1,6 @@
 type: ItemTurret
 ammo: {
-  colaBottles: oilShot
+  colaBottle: oilShot
 }
 range: 80
 reload: 5
