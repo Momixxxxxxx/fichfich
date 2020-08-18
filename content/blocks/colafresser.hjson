@@ -1,6 +1,20 @@
 type: ItemTurret
+name: Colafresser
+description: "Dies ist ein Colafresser. Er frisst Cola."
+health: 2000
+size: 3
+range: 256
 ammo: {
   colaBottle: oilShot
 }
-range: 80
-reload: 5
+inaccuracy: 0
+rotatespeed: 10
+recoil: 3
+shootShake: 0.5
+requirements: [
+  fich/200
+  thorium/125
+  plastanium/150
+  surge-alloy/100
+]
+category: turret
